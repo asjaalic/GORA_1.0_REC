@@ -1,0 +1,17 @@
+
+# characteristics and parameters 
+    grid_Capacity = 160
+    min_SOC = 16.0	
+    energy_Capacity = 80.0
+    power_Capacity = 80.0
+    Eff_charge = 0.95
+    Eff_discharge = 0.95
+    NFull = 5000
+    PV_max = 160
+    DoD = 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 
+    NCycles = 63095734 2964538 794328 367643 212835 139288 98508 73497 57028 45593 37321 31139 26394 22671 19693 17274 15280
+
+
+
+
+

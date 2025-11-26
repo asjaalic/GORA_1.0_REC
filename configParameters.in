@@ -1,0 +1,9 @@
+
+#problem definition
+    NYears = 10
+    NHoursStep = 1.0
+    NStates = 16
+
+#General
+    Big = 1E16
+
