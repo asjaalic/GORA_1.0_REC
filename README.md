@@ -1,2 +1,2 @@
-# Batteries: greedy approach
-Dynamic programming considering battery degradation - constant SOH revamping
+Dynamic Programming for a BESS connected behind-the-meter of a PV system within a REC
+
